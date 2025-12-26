@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Rodeo13",
+  "base_artist": "梅田サイファー",
+  "createdAt": "2025-12-26T03:36:09.581144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rodeo13",
+      "artist": "梅田サイファー",
+      "has_synced": true,
+      "path": "select/01_Rodeo13_梅田サイファー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rodeo13",
+      "artist": "UMEDA CYPHER",
+      "has_synced": false,
+      "path": "select/02_Rodeo13_UMEDA_CYPHER.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rodeo13",
+      "artist": "梅田サイファー",
+      "has_synced": false,
+      "path": "select/pl_01_Rodeo13_梅田サイファー.txt"
+    }
+  ]
+}
